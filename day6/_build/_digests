@@ -1,0 +1,5 @@
+"Resource: /home/maxkr/Documents/fun/coding/aoc21/day6/main.ml": "\140\134\133\144\205*f\180J\026xN\172R\158\243"
+"Rule: ocaml: ml & cmi -> cmx & o (%=main )": "z/\138\235i\132i\147\131\227\188r\238\178 :"
+"Rule: ocaml: ml -> cmo & cmi (%=main )": "\203\210\021\247\160\248\152{+\022/\204\012\236;\163"
+"Rule: ocaml dependencies ml (%=main )": "@\212\204\196\17590\221 3\216py\171\132\159"
+"Rule: ocaml: cmx* & o* -> native (%=main )": "\217c\006\212\002\135!\218\129\198f\212i|\139O"
