@@ -104,7 +104,7 @@ def star2():
 
     print(dp[len(grid)-1][len(grid)-1] - grid[0][0])
 
-    #answer is between 2836 and 2829
+    #answer is between 2835, program gives 2838
 
 
 star1()
